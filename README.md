@@ -19,3 +19,64 @@ Your goal is to establish what assets are in place, perform a security assessmen
 ```
 Identify the sources of Industry vulnerability and security control frameworks.
 ```
+
+```
+Verify the current setting of software updates and third-party packages at audited machines.
+```
+```
+Verify that native protections for the operating systems are in place.
+```
+```
+Use NMAP to correctly identify all live hosts in a network.
+```
+
+### Assess Access Management
+
+```
+Check for current settings on network segmentation, VLANs, Domain Isolation, or IP Security Policies.
+```
+```
+Investigate and find Remote Access Services, Protocols, and if the IPv6 protocol is running.
+```
+```
+Find and verify if firewalls are set and recommend what ports should be open for business and network operations.
+```
+```
+Identify and mitigate user privilege Issues.
+```
+
+### Log Monitoring Setup for Detection at Targeted Assets
+
+```
+Use Wireshark or tcpdump to perform traffic inspection and investigation.
+```
+```
+Use Wireshark or tcpdump analyze a successful attack (Lateral Movement Mitre ATT&CK TA0008)
+```
+```
+Use logs at audited machines to find login failures and suspicious access attempts.
+```
+```
+Verify that the systems are logging correctly.
+```
+
+### Assess Authentication Management
+
+```
+Verify what type of authentication and access controls are in place for privileged and unprivileged users.
+```
+```
+Audit password policies in Windows & Linux.
+```
+```
+Verify the use of strong encryption in audited systems.
+```
+```
+Audit network services passwords using NMAP NSE scripts.
+```
+
+### Vulnerability Report for Stakeholders
+
+```
+Produce a Vulnerability report following industry best practices for stakeholders.
+```
