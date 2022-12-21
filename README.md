@@ -39,7 +39,8 @@ Check for current settings on network segmentation, VLANs, Domain Isolation, or 
 Investigate and find Remote Access Services, Protocols, and if the IPv6 protocol is running.
 ```
 ```
-Find and verify if firewalls are set and recommend what ports should be open for business and network operations.
+Find and verify if firewalls are set and recommend what ports should be open for
+business and network operations.
 ```
 ```
 Identify and mitigate user privilege Issues.
